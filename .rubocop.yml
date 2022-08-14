@@ -3,6 +3,9 @@ inherit_from: .rubocop_todo.yml
 AllCops:
   NewCops: enable
 
+Style/BlockComments:
+  Enabled: false
+
 Style/Documentation:
   Enabled: false
 
