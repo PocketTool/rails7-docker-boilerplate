@@ -22,6 +22,7 @@ end
 
 group :development do
   gem "web-console"
+  gem 'rubocop', '~> 1.35', require: false
 end
 
 group :test do
