@@ -22,9 +22,3 @@ Bundler/OrderedGems:
 Layout/SpaceInsideArrayLiteralBrackets:
   Exclude:
     - "config/environments/production.rb"
-
-# Offense count: 4
-# This cop supports safe autocorrection (--autocorrect).
-Layout/SpaceInsidePercentLiteralDelimiters:
-  Exclude:
-    - "Gemfile"
