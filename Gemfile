@@ -23,6 +23,7 @@ end
 group :development do
   gem 'web-console'
   gem 'rubocop', '~> 1.35', require: false
+  gem 'brakeman'
 end
 
 group :test do
